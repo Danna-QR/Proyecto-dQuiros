@@ -4,7 +4,8 @@
 using namespace std;
 /// </summary>
 /// </summary>
-
+/// </summary>
+/// </summary>
 void game::showPrincipalWindow()
 {
        sf::RenderWindow window(sf::VideoMode(800, 600), "My window", sf::Style::Close);
