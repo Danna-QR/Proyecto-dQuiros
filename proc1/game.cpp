@@ -2,6 +2,8 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 using namespace std;
+/// </summary>
+/// </summary>
 
 void game::showPrincipalWindow()
 {
